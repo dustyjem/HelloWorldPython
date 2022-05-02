@@ -1,8 +1,8 @@
 # Overview
 
-I want to write a program that will display "Hello World" when run.
+I want to write a program that will display "Hello World" when it is run.
 
-This programe will be written in Python
+This programme will be written in Python
 
 The purpose is to demonstrate my understanding of the python language
 
